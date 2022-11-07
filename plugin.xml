@@ -1,0 +1,12 @@
+<library path="scripts">
+  <class name="rqt_progress_bar" type="rqt_progress_bar.rqt_progress_bar.RqtProgressBar" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      rqt progress bar
+    </description>
+    <qtgui>
+      <label>rqt_progress_bar</label>
+      <icon type="theme">applications-other</icon>
+      <statustip>rqt_progress_bar</statustip>
+    </qtgui>
+  </class>
+</library>

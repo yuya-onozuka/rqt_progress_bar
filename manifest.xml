@@ -1,0 +1,15 @@
+<package>
+  <description brief="rqt_progress_bar">
+    rqt_progress_bar
+  </description>
+  <author>onozuka</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rqt_progress_bar</url>
+  <depend package="rospy"/>
+  <depend package="rqt_gui"/>
+  <depend package="rqt_gui_py"/>  
+  <export>
+    <rqt_gui plugin="${prefix}/plugin.xml"/>
+  </export>
+</package>

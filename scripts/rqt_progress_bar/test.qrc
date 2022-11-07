@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>baseball_woman1_red.png</file>
+  </qresource>
+</RCC>

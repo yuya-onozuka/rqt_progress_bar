@@ -79,6 +79,22 @@
     <bool>true</bool>
    </property>
   </widget>
+  <widget class="QLabel" name="gif3">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>50</y>
+     <width>251</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
  </widget>
  <resources>
   <include location="test.qrc"/>
